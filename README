@@ -1,0 +1,24 @@
+Just some small hacks written in Processing.
+(see http://processing.org for the language itself)
+
+Copyright 2011 by Richard Wossal <richard@r-wos.org>
+
+These hacks are Free Software, do with them whatever you want.
+
+    canvas_game_of_life
+        A "living" drawing canvas. 
+
+    fractal_garden
+        A very simple fractal viewer. 
+
+    fractal_garden_2
+        More or less a combination of the two above. 
+
+    the_dark_side
+        An interactive version of Pink Floyd's famous
+        Dark Side of the Moon album cover. 
+
+Note: This is not exactly beautiful code. Processing somewhat invites
+one to just "hack until it works". But I think that's fine for those
+kind of silly applets.
+
