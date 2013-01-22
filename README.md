@@ -1,9 +1,8 @@
+small processing hacks
+======================
+
 Just some small hacks written in Processing.
 (see http://processing.org for the language itself)
-
-Copyright 2011 by Richard Wossal <richard@r-wos.org>
-
-These hacks are Free Software, do with them whatever you want.
 
     canvas_game_of_life
         A "living" drawing canvas. 
@@ -21,4 +20,15 @@ These hacks are Free Software, do with them whatever you want.
 Note: This is not exactly beautiful code. Processing somewhat invites
 one to just "hack until it works". But I think that's fine for those
 kind of silly applets.
+
+License
+-------
+
+Written in 2011 by Richard Wossal <richard@r-wos.org>
+
+To the extent possible under law, the author has dedicated all copyright
+and related and neighboring rights to this software to the public domain
+worldwide. This software is distributed without any warranty.
+
+See the file called COPYING for details.
 
